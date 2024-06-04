@@ -1,0 +1,77 @@
+body{
+    background: url('https://source.unsplash.com/1600x900/?html');
+    
+
+    padding: none;
+}
+#website{
+    background: #ffffff;
+    width: 90%;
+    max-width: 600px;
+    margin-top: 50px;
+    margin-left: 31%;
+    border-radius: 20px;
+    padding: 30px;
+    display: block;
+}
+h1{
+    font-size: 25px;
+    color:#222;
+    font-weight: 700;
+    border-bottom: 2px solid #333;
+    padding-bottom: 30px;
+}
+.Quiz{
+    padding: 20px 0;
+}
+.Quiz h2{
+    font-size: 18px;
+    color: #001e4d;
+    font-weight: 700;
+}
+.btn{
+    background: #fff;
+    color: #222;
+    font-weight: 500;
+    width: 100%;
+    border:2px solid #222;
+    padding: 10px;
+    margin: 10px 0;
+    text-align: left;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: all 0.3s;
+}
+.btn:hover{
+    background: #222;
+    color: #fff;
+}
+#next-button{
+background: #001e4d;
+color: #fff;
+font-weight: 500;
+width: 150px;
+border:0;
+padding: 4px;
+margin: 20px auto 0;
+border-radius: 4px;
+cursor: pointer;
+display:block;
+}
+.overlap{
+    background-color: #000000;
+    opacity: 50%;
+    z-index: -1;
+}
+/*#A1 {
+    display: none;
+}
+#A2 {
+    display: none;
+}
+#A3 {
+    display: none;
+}
+#A4 {
+    display: none;
+}*/
